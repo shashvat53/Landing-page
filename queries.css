@@ -1,0 +1,53 @@
+@media (max-width: 500px) {
+  #overlay #text {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  #overlay #text h1 {
+    margin-bottom: 28px;
+    font-size: 38px;
+  }
+  #overlay #text #text-right {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  #overlay #text #text-right #box1 {
+    margin-bottom: 20px;
+  }
+
+  #overlay #text #text-right .para {
+    margin-top: 5px;
+  }
+  #overlay #text #text-right #icons {
+    margin-top: 30px;
+  }
+
+  #bottom {
+    flex-direction: column;
+  }
+  #bone {
+    width: 100%;
+    min-height: 20vh;
+    padding: 8%;
+  }
+  #bone #bicon {
+    margin-top: 20%;
+  }
+  #btwo {
+    width: 100%;
+  }
+  #bthree {
+    width: 100%;
+  }
+  #bthree #bthree-bottom {
+    min-height: 40vh;
+  }
+  #bfour {
+    padding: 8%;
+    width: 100%;
+  }
+  #bfour #notf {
+    /* margin-bottom: 5px; */
+    justify-content: flex-start;
+  }
+}
