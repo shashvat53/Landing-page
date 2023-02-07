@@ -1,2 +1,2 @@
 # Landing-page
-Landing page with HTML and CSS
+Responsive Landing page with HTML and CSS
